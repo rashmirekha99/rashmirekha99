@@ -3,7 +3,6 @@
 - 👋 Hi, I’m Rashmi Rekha
 - 👀 I’m interested in Web and Mobile development
 - 🌱 I’m an undergraduate at University of Moratuwa, Faculty Of IT
-- 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me rashmirekha99@gmail.com
 
 <h2>Connect with Me</h2>
